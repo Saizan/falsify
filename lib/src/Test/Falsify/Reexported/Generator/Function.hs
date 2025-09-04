@@ -1,5 +1,5 @@
 module Test.Falsify.Reexported.Generator.Function (
-    Fun -- opaque
+    Fun(..) -- opaque
   , applyFun
   , pattern Fn
   , pattern Fn2
