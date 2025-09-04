@@ -47,7 +47,7 @@ module Test.Falsify.Generator (
   , mark
     -- * Functions
     -- ** Generation
-  , Fun
+  , Fun(..)
   , applyFun
   , pattern Fn
   , pattern Fn2
